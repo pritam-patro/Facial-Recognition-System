@@ -1,5 +1,4 @@
-# FaceDetection-AttendanceSystem
-
+# Facial-Recognition-System
 
 ### An attendance system using Face Recognition feature using OpenCV library of Python
 
