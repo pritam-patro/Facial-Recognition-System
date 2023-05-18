@@ -18,5 +18,5 @@ You can create a dataset of your face and train the system with that dataset, wi
 
 <hr />
 
-Setup.exe file provided.
+
 
