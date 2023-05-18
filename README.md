@@ -18,5 +18,6 @@ You can create a dataset of your face and train the system with that dataset, wi
 
 <hr />
 
-setup file provided.
+You can setup the file by using the link:
+https://drive.google.com/file/d/19I1rWXTgoNd5WKhJZkj1LLTuo_-hmSps/view?usp=sharing
 
